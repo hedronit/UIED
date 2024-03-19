@@ -127,12 +127,12 @@ def text_filter_noise(texts):
     return valid_texts
 
 
-def text_detection(input_file='../data/input/30800.jpg', output_file='../data/output', show=False, method='google', paddle_model=None):
+def text_detection(input_file='../data/input/hedron.png', output_file='../data/output', show=False, method='google', paddle_model=None):
     '''
     :param method: google or paddle
     :param paddle_model: the preload paddle model for paddle ocr
     '''
-    start = time.clock()
+    start = time.process_time()
     name = input_file.split('/')[-1][:-4]
     ocr_root = pjoin(output_file, 'ocr')
     img = cv2.imread(input_file)
@@ -155,9 +155,9 @@ def text_detection(input_file='../data/input/30800.jpg', output_file='../data/ou
     else:
         raise ValueError('Method has to be "google" or "paddle"')
 
-    visualize_texts(img, texts, shown_resize_height=800, show=show, write_path=pjoin(ocr_root, name+'.png'))
+    visualize_texts(img, texts, shown_resize_height=800, show=False, write_path=pjoin(ocr_root, name+'.png'))
     save_detection_json(pjoin(ocr_root, name+'.json'), texts, img.shape)
-    print("[Text Detection Completed in %.3f s] Input: %s Output: %s" % (time.clock() - start, input_file, pjoin(ocr_root, name+'.json')))
+    print("[Text Detection Completed in %.3f s] Input: %s Output: %s" % (time.process_time() - start, input_file, pjoin(ocr_root, name+'.json')))
 
 
 # text_detection()

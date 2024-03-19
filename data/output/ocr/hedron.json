@@ -1,0 +1,1199 @@
+{
+    "img_shape": [
+        4105,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "HEDRON",
+            "column_min": 398,
+            "row_min": 34,
+            "column_max": 543,
+            "row_max": 61,
+            "width": 145,
+            "height": 27
+        },
+        {
+            "id": 1,
+            "content": "Evolve by design",
+            "column_min": 405,
+            "row_min": 196,
+            "column_max": 981,
+            "row_max": 272,
+            "width": 576,
+            "height": 76
+        },
+        {
+            "id": 2,
+            "content": "Siamo un laboratorio di design super specializzato nel",
+            "column_min": 398,
+            "row_min": 325,
+            "column_max": 939,
+            "row_max": 351,
+            "width": 541,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "supportare l'evoluzione digitale delle aziende",
+            "column_min": 400,
+            "row_min": 358,
+            "column_max": 852,
+            "row_max": 385,
+            "width": 452,
+            "height": 27
+        },
+        {
+            "id": 4,
+            "content": ".",
+            "column_min": 851,
+            "row_min": 359,
+            "column_max": 857,
+            "row_max": 380,
+            "width": 6,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Progettiamo con le persone , per le persone .",
+            "column_min": 401,
+            "row_min": 397,
+            "column_max": 835,
+            "row_max": 422,
+            "width": 434,
+            "height": 25
+        },
+        {
+            "id": 6,
+            "content": "ESPLORA",
+            "column_min": 431,
+            "row_min": 478,
+            "column_max": 509,
+            "row_max": 493,
+            "width": 78,
+            "height": 15
+        },
+        {
+            "id": 7,
+            "content": "1,609,62 \u20ac",
+            "column_min": 675,
+            "row_min": 819,
+            "column_max": 709,
+            "row_max": 834,
+            "width": 34,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "X158",
+            "column_min": 552,
+            "row_min": 835,
+            "column_max": 571,
+            "row_max": 842,
+            "width": 19,
+            "height": 7
+        },
+        {
+            "id": 9,
+            "content": "000",
+            "column_min": 659,
+            "row_min": 839,
+            "column_max": 776,
+            "row_max": 908,
+            "width": 117,
+            "height": 69
+        },
+        {
+            "id": 10,
+            "content": "DESIGN",
+            "column_min": 1048,
+            "row_min": 40,
+            "column_max": 1091,
+            "row_max": 50,
+            "width": 43,
+            "height": 10
+        },
+        {
+            "id": 11,
+            "content": "METODO",
+            "column_min": 1133,
+            "row_min": 41,
+            "column_max": 1184,
+            "row_max": 50,
+            "width": 51,
+            "height": 9
+        },
+        {
+            "id": 12,
+            "content": "ESPERIMENTI",
+            "column_min": 1225,
+            "row_min": 40,
+            "column_max": 1303,
+            "row_max": 50,
+            "width": 78,
+            "height": 10
+        },
+        {
+            "id": 13,
+            "content": "SQUADRA",
+            "column_min": 1345,
+            "row_min": 40,
+            "column_max": 1401,
+            "row_max": 51,
+            "width": 56,
+            "height": 11
+        },
+        {
+            "id": 14,
+            "content": "CONTATTI",
+            "column_min": 1442,
+            "row_min": 39,
+            "column_max": 1499,
+            "row_max": 50,
+            "width": 57,
+            "height": 11
+        },
+        {
+            "id": 15,
+            "content": "Tartufo",
+            "column_min": 1694,
+            "row_min": 830,
+            "column_max": 1738,
+            "row_max": 849,
+            "width": 44,
+            "height": 19
+        },
+        {
+            "id": 16,
+            "content": "fresco",
+            "column_min": 1739,
+            "row_min": 825,
+            "column_max": 1776,
+            "row_max": 843,
+            "width": 37,
+            "height": 18
+        },
+        {
+            "id": 17,
+            "content": "Hi",
+            "column_min": 1197,
+            "row_min": 817,
+            "column_max": 1222,
+            "row_max": 841,
+            "width": 25,
+            "height": 24
+        },
+        {
+            "id": 18,
+            "content": "Bixby",
+            "column_min": 1228,
+            "row_min": 818,
+            "column_max": 1299,
+            "row_max": 847,
+            "width": 71,
+            "height": 29
+        },
+        {
+            "id": 19,
+            "content": "portami a Livorno",
+            "column_min": 1127,
+            "row_min": 851,
+            "column_max": 1343,
+            "row_max": 880,
+            "width": 216,
+            "height": 29
+        },
+        {
+            "id": 20,
+            "content": "artufai enerazioni",
+            "column_min": 1792,
+            "row_min": 848,
+            "column_max": 1880,
+            "row_max": 918,
+            "width": 88,
+            "height": 70
+        },
+        {
+            "id": 21,
+            "content": "MYSE : My Sport Exchange",
+            "column_min": 400,
+            "row_min": 1056,
+            "column_max": 584,
+            "row_max": 1072,
+            "width": 184,
+            "height": 16
+        },
+        {
+            "id": 22,
+            "content": "Trading per tutti con l'app del fantamercato",
+            "column_min": 400,
+            "row_min": 1080,
+            "column_max": 845,
+            "row_max": 1106,
+            "width": 445,
+            "height": 26
+        },
+        {
+            "id": 23,
+            "content": "Samsung Bixby 2.0",
+            "column_min": 964,
+            "row_min": 1056,
+            "column_max": 1100,
+            "row_max": 1071,
+            "width": 136,
+            "height": 15
+        },
+        {
+            "id": 24,
+            "content": "Conversational Design : Bixby per il mercato italiano",
+            "column_min": 965,
+            "row_min": 1083,
+            "column_max": 1495,
+            "row_max": 1104,
+            "width": 530,
+            "height": 21
+        },
+        {
+            "id": 25,
+            "content": "TUTTI PROGETTI",
+            "column_min": 448,
+            "row_min": 1199,
+            "column_max": 599,
+            "row_max": 1213,
+            "width": 151,
+            "height": 14
+        },
+        {
+            "id": 26,
+            "content": "Progettiamo esperienze ,",
+            "column_min": 403,
+            "row_min": 1434,
+            "column_max": 1263,
+            "row_max": 1504,
+            "width": 860,
+            "height": 70
+        },
+        {
+            "id": 27,
+            "content": "servizi",
+            "column_min": 401,
+            "row_min": 1528,
+            "column_max": 627,
+            "row_max": 1604,
+            "width": 226,
+            "height": 76
+        },
+        {
+            "id": 28,
+            "content": "prodotti digitali .",
+            "column_min": 707,
+            "row_min": 1530,
+            "column_max": 1280,
+            "row_max": 1607,
+            "width": 573,
+            "height": 77
+        },
+        {
+            "id": 29,
+            "content": "Le nostre soluzioni investono nel futuro sono studiate per essere usabili , accessibili",
+            "column_min": 400,
+            "row_min": 1645,
+            "column_max": 1241,
+            "row_max": 1666,
+            "width": 841,
+            "height": 21
+        },
+        {
+            "id": 30,
+            "content": "sostenibili .",
+            "column_min": 1263,
+            "row_min": 1645,
+            "column_max": 1371,
+            "row_max": 1666,
+            "width": 108,
+            "height": 21
+        },
+        {
+            "id": 31,
+            "content": "VEDI NOSTRI SERVIZI",
+            "column_min": 447,
+            "row_min": 1736,
+            "column_max": 635,
+            "row_max": 1751,
+            "width": 188,
+            "height": 15
+        },
+        {
+            "id": 32,
+            "content": "nostri clienti",
+            "column_min": 418,
+            "row_min": 1979,
+            "column_max": 600,
+            "row_max": 2003,
+            "width": 182,
+            "height": 24
+        },
+        {
+            "id": 33,
+            "content": "Calugi Tartufi",
+            "column_min": 1529,
+            "row_min": 1054,
+            "column_max": 1625,
+            "row_max": 1071,
+            "width": 96,
+            "height": 17
+        },
+        {
+            "id": 34,
+            "content": "Incrementare le revenue dell'e comme",
+            "column_min": 1531,
+            "row_min": 1083,
+            "column_max": 1919,
+            "row_max": 1100,
+            "width": 388,
+            "height": 17
+        },
+        {
+            "id": 35,
+            "content": "SAMSUNG",
+            "column_min": 269,
+            "row_min": 2151,
+            "column_max": 384,
+            "row_max": 2172,
+            "width": 115,
+            "height": 21
+        },
+        {
+            "id": 36,
+            "content": "UNGUESS",
+            "column_min": 572,
+            "row_min": 2151,
+            "column_max": 755,
+            "row_max": 2185,
+            "width": 183,
+            "height": 34
+        },
+        {
+            "id": 37,
+            "content": "act ! onaid",
+            "column_min": 1220,
+            "row_min": 2151,
+            "column_max": 1391,
+            "row_max": 2175,
+            "width": 171,
+            "height": 24
+        },
+        {
+            "id": 38,
+            "content": "DEAGOSTINI",
+            "column_min": 1578,
+            "row_min": 2155,
+            "column_max": 1719,
+            "row_max": 2170,
+            "width": 141,
+            "height": 15
+        },
+        {
+            "id": 39,
+            "content": "IN",
+            "column_min": 1881,
+            "row_min": 2152,
+            "column_max": 1919,
+            "row_max": 2183,
+            "width": 38,
+            "height": 31
+        },
+        {
+            "id": 40,
+            "content": "VIRTUOSO",
+            "column_min": 929,
+            "row_min": 2183,
+            "column_max": 1031,
+            "row_max": 2195,
+            "width": 102,
+            "height": 12
+        },
+        {
+            "id": 41,
+            "content": "tartufi dal 1908",
+            "column_min": 1581,
+            "row_min": 2319,
+            "column_max": 1679,
+            "row_max": 2334,
+            "width": 98,
+            "height": 15
+        },
+        {
+            "id": 42,
+            "content": ":",
+            "column_min": 40,
+            "row_min": 2272,
+            "column_max": 53,
+            "row_max": 2296,
+            "width": 13,
+            "height": 24
+        },
+        {
+            "id": 43,
+            "content": "Trustly",
+            "column_min": 290,
+            "row_min": 2275,
+            "column_max": 407,
+            "row_max": 2305,
+            "width": 117,
+            "height": 30
+        },
+        {
+            "id": 44,
+            "content": "Sisal",
+            "column_min": 644,
+            "row_min": 2280,
+            "column_max": 709,
+            "row_max": 2299,
+            "width": 65,
+            "height": 19
+        },
+        {
+            "id": 45,
+            "content": "aruba.it",
+            "column_min": 915,
+            "row_min": 2276,
+            "column_max": 1042,
+            "row_max": 2310,
+            "width": 127,
+            "height": 34
+        },
+        {
+            "id": 46,
+            "content": "Sella",
+            "column_min": 1269,
+            "row_min": 2281,
+            "column_max": 1343,
+            "row_max": 2303,
+            "width": 74,
+            "height": 22
+        },
+        {
+            "id": 47,
+            "content": "STEFANIA CALUGI",
+            "column_min": 1562,
+            "row_min": 2306,
+            "column_max": 1699,
+            "row_max": 2316,
+            "width": 137,
+            "height": 10
+        },
+        {
+            "id": 48,
+            "content": "BANK",
+            "column_min": 986,
+            "row_min": 2410,
+            "column_max": 1010,
+            "row_max": 2416,
+            "width": 24,
+            "height": 6
+        },
+        {
+            "id": 49,
+            "content": "REVOO",
+            "column_min": 600,
+            "row_min": 2412,
+            "column_max": 706,
+            "row_max": 2432,
+            "width": 106,
+            "height": 20
+        },
+        {
+            "id": 50,
+            "content": "RCI AND",
+            "column_min": 943,
+            "row_min": 2412,
+            "column_max": 1008,
+            "row_max": 2431,
+            "width": 65,
+            "height": 19
+        },
+        {
+            "id": 51,
+            "content": "KIKO",
+            "column_min": 1254,
+            "row_min": 2408,
+            "column_max": 1355,
+            "row_max": 2429,
+            "width": 101,
+            "height": 21
+        },
+        {
+            "id": 52,
+            "content": "SERVICES",
+            "column_min": 986,
+            "row_min": 2429,
+            "column_max": 1026,
+            "row_max": 2435,
+            "width": 40,
+            "height": 6
+        },
+        {
+            "id": 53,
+            "content": "MAKE UP MILANO",
+            "column_min": 1256,
+            "row_min": 2434,
+            "column_max": 1357,
+            "row_max": 2439,
+            "width": 101,
+            "height": 5
+        },
+        {
+            "id": 54,
+            "content": "RENAUL",
+            "column_min": 264,
+            "row_min": 2445,
+            "column_max": 342,
+            "row_max": 2457,
+            "width": 78,
+            "height": 12
+        },
+        {
+            "id": 55,
+            "content": "Le ultime news",
+            "column_min": 400,
+            "row_min": 2626,
+            "column_max": 620,
+            "row_max": 2656,
+            "width": 220,
+            "height": 30
+        },
+        {
+            "id": 56,
+            "content": "Conta",
+            "column_min": 1164,
+            "row_min": 2735,
+            "column_max": 1207,
+            "row_max": 2753,
+            "width": 43,
+            "height": 18
+        },
+        {
+            "id": 57,
+            "content": "10,000",
+            "column_min": 1311,
+            "row_min": 2764,
+            "column_max": 1345,
+            "row_max": 2782,
+            "width": 34,
+            "height": 18
+        },
+        {
+            "id": 58,
+            "content": "$",
+            "column_min": 1344,
+            "row_min": 2774,
+            "column_max": 1352,
+            "row_max": 2783,
+            "width": 8,
+            "height": 9
+        },
+        {
+            "id": 59,
+            "content": "VISA",
+            "column_min": 1302,
+            "row_min": 2802,
+            "column_max": 1325,
+            "row_max": 2815,
+            "width": 23,
+            "height": 13
+        },
+        {
+            "id": 60,
+            "content": "To",
+            "column_min": 1180,
+            "row_min": 2816,
+            "column_max": 1189,
+            "row_max": 2824,
+            "width": 9,
+            "height": 8
+        },
+        {
+            "id": 61,
+            "content": "Main",
+            "column_min": 1188,
+            "row_min": 2818,
+            "column_max": 1203,
+            "row_max": 2828,
+            "width": 15,
+            "height": 10
+        },
+        {
+            "id": 62,
+            "content": "+39",
+            "column_min": 1281,
+            "row_min": 2842,
+            "column_max": 1296,
+            "row_max": 2852,
+            "width": 15,
+            "height": 10
+        },
+        {
+            "id": 63,
+            "content": "02",
+            "column_min": 1294,
+            "row_min": 2846,
+            "column_max": 1303,
+            "row_max": 2854,
+            "width": 9,
+            "height": 8
+        },
+        {
+            "id": 64,
+            "content": "68689679",
+            "column_min": 1301,
+            "row_min": 2848,
+            "column_max": 1332,
+            "row_max": 2863,
+            "width": 31,
+            "height": 15
+        },
+        {
+            "id": 65,
+            "content": "Completed",
+            "column_min": 1485,
+            "row_min": 2871,
+            "column_max": 1520,
+            "row_max": 2887,
+            "width": 35,
+            "height": 16
+        },
+        {
+            "id": 66,
+            "content": "Wh",
+            "column_min": 1427,
+            "row_min": 2907,
+            "column_max": 1437,
+            "row_max": 2913,
+            "width": 10,
+            "height": 6
+        },
+        {
+            "id": 67,
+            "content": "Operation",
+            "column_min": 1448,
+            "row_min": 2893,
+            "column_max": 1478,
+            "row_max": 2907,
+            "width": 30,
+            "height": 14
+        },
+        {
+            "id": 68,
+            "content": "detal",
+            "column_min": 1477,
+            "row_min": 2901,
+            "column_max": 1493,
+            "row_max": 2911,
+            "width": 16,
+            "height": 10
+        },
+        {
+            "id": 69,
+            "content": "Salary",
+            "column_min": 1424,
+            "row_min": 2915,
+            "column_max": 1443,
+            "row_max": 2927,
+            "width": 19,
+            "height": 12
+        },
+        {
+            "id": 70,
+            "content": "cand",
+            "column_min": 1443,
+            "row_min": 2921,
+            "column_max": 1456,
+            "row_max": 2930,
+            "width": 13,
+            "height": 9
+        },
+        {
+            "id": 71,
+            "content": "HEDRON",
+            "column_min": 1417,
+            "row_min": 2940,
+            "column_max": 1443,
+            "row_max": 2953,
+            "width": 26,
+            "height": 13
+        },
+        {
+            "id": 72,
+            "content": "+39",
+            "column_min": 1410,
+            "row_min": 2966,
+            "column_max": 1424,
+            "row_max": 2975,
+            "width": 14,
+            "height": 9
+        },
+        {
+            "id": 73,
+            "content": "02",
+            "column_min": 1423,
+            "row_min": 2969,
+            "column_max": 1433,
+            "row_max": 2978,
+            "width": 10,
+            "height": 9
+        },
+        {
+            "id": 74,
+            "content": "55569679",
+            "column_min": 1432,
+            "row_min": 2972,
+            "column_max": 1462,
+            "row_max": 2986,
+            "width": 30,
+            "height": 14
+        },
+        {
+            "id": 75,
+            "content": "-0661",
+            "column_min": 1403,
+            "row_min": 2993,
+            "column_max": 1422,
+            "row_max": 3003,
+            "width": 19,
+            "height": 10
+        },
+        {
+            "id": 76,
+            "content": "Live Workshop",
+            "column_min": 400,
+            "row_min": 3031,
+            "column_max": 506,
+            "row_max": 3045,
+            "width": 106,
+            "height": 14
+        },
+        {
+            "id": 77,
+            "content": "Il Design Sistemico per il territorio",
+            "column_min": 401,
+            "row_min": 3059,
+            "column_max": 750,
+            "row_max": 3080,
+            "width": 349,
+            "height": 21
+        },
+        {
+            "id": 78,
+            "content": "livornese",
+            "column_min": 400,
+            "row_min": 3095,
+            "column_max": 493,
+            "row_max": 3112,
+            "width": 93,
+            "height": 17
+        },
+        {
+            "id": 79,
+            "content": "28.12.23",
+            "column_min": 399,
+            "row_min": 3135,
+            "column_max": 443,
+            "row_max": 3143,
+            "width": 44,
+            "height": 8
+        },
+        {
+            "id": 80,
+            "content": "10:00",
+            "column_min": 464,
+            "row_min": 3135,
+            "column_max": 492,
+            "row_max": 3143,
+            "width": 28,
+            "height": 8
+        },
+        {
+            "id": 81,
+            "content": "COMUNE DI LIVORNO",
+            "column_min": 516,
+            "row_min": 3135,
+            "column_max": 626,
+            "row_max": 3143,
+            "width": 110,
+            "height": 8
+        },
+        {
+            "id": 82,
+            "content": "Cosa abbiamo imparato",
+            "column_min": 781,
+            "row_min": 3031,
+            "column_max": 952,
+            "row_max": 3048,
+            "width": 171,
+            "height": 17
+        },
+        {
+            "id": 83,
+            "content": "Etichetta di comportamento",
+            "column_min": 782,
+            "row_min": 3056,
+            "column_max": 1071,
+            "row_max": 3082,
+            "width": 289,
+            "height": 26
+        },
+        {
+            "id": 84,
+            "content": "per",
+            "column_min": 1076,
+            "row_min": 3061,
+            "column_max": 1112,
+            "row_max": 3083,
+            "width": 36,
+            "height": 22
+        },
+        {
+            "id": 85,
+            "content": "moderare un test di Usabilit\u00e0",
+            "column_min": 782,
+            "row_min": 3093,
+            "column_max": 1076,
+            "row_max": 3113,
+            "width": 294,
+            "height": 20
+        },
+        {
+            "id": 86,
+            "content": "USER RESEARCH",
+            "column_min": 781,
+            "row_min": 3135,
+            "column_max": 867,
+            "row_max": 3143,
+            "width": 86,
+            "height": 8
+        },
+        {
+            "id": 87,
+            "content": "USABILITY TESTING",
+            "column_min": 893,
+            "row_min": 3133,
+            "column_max": 994,
+            "row_max": 3144,
+            "width": 101,
+            "height": 11
+        },
+        {
+            "id": 88,
+            "content": "Digital Trends",
+            "column_min": 1162,
+            "row_min": 3032,
+            "column_max": 1261,
+            "row_max": 3047,
+            "width": 99,
+            "height": 15
+        },
+        {
+            "id": 89,
+            "content": "Mobile Banking : le best practice",
+            "column_min": 1164,
+            "row_min": 3059,
+            "column_max": 1489,
+            "row_max": 3081,
+            "width": 325,
+            "height": 22
+        },
+        {
+            "id": 90,
+            "content": "per progettare un wizard efficace",
+            "column_min": 1163,
+            "row_min": 3093,
+            "column_max": 1499,
+            "row_max": 3119,
+            "width": 336,
+            "height": 26
+        },
+        {
+            "id": 91,
+            "content": "USER RESEARCH",
+            "column_min": 1163,
+            "row_min": 3133,
+            "column_max": 1248,
+            "row_max": 3145,
+            "width": 85,
+            "height": 12
+        },
+        {
+            "id": 92,
+            "content": "USABILITY TESTING",
+            "column_min": 1274,
+            "row_min": 3135,
+            "column_max": 1375,
+            "row_max": 3144,
+            "width": 101,
+            "height": 9
+        },
+        {
+            "id": 93,
+            "content": "TUTTI GLI EVENTI",
+            "column_min": 448,
+            "row_min": 3213,
+            "column_max": 596,
+            "row_max": 3228,
+            "width": 148,
+            "height": 15
+        },
+        {
+            "id": 94,
+            "content": "Parliamo del tuo progetto",
+            "column_min": 401,
+            "row_min": 3435,
+            "column_max": 775,
+            "row_max": 3471,
+            "width": 374,
+            "height": 36
+        },
+        {
+            "id": 95,
+            "content": "NOME",
+            "column_min": 400,
+            "row_min": 3550,
+            "column_max": 431,
+            "row_max": 3560,
+            "width": 31,
+            "height": 10
+        },
+        {
+            "id": 96,
+            "content": "COGNOME",
+            "column_min": 442,
+            "row_min": 3550,
+            "column_max": 494,
+            "row_max": 3562,
+            "width": 52,
+            "height": 12
+        },
+        {
+            "id": 97,
+            "content": "Inserisci il tuo nome cognome",
+            "column_min": 400,
+            "row_min": 3588,
+            "column_max": 584,
+            "row_max": 3603,
+            "width": 184,
+            "height": 15
+        },
+        {
+            "id": 98,
+            "content": "MESSAGGIO",
+            "column_min": 400,
+            "row_min": 3659,
+            "column_max": 459,
+            "row_max": 3668,
+            "width": 59,
+            "height": 9
+        },
+        {
+            "id": 99,
+            "content": "Scrivi qui il tuo messaggio",
+            "column_min": 399,
+            "row_min": 3695,
+            "column_max": 552,
+            "row_max": 3709,
+            "width": 153,
+            "height": 14
+        },
+        {
+            "id": 100,
+            "content": "Anti Robot Verification",
+            "column_min": 448,
+            "row_min": 3770,
+            "column_max": 581,
+            "row_max": 3781,
+            "width": 133,
+            "height": 11
+        },
+        {
+            "id": 101,
+            "content": "INVIA",
+            "column_min": 448,
+            "row_min": 3865,
+            "column_max": 495,
+            "row_max": 3879,
+            "width": 47,
+            "height": 14
+        },
+        {
+            "id": 102,
+            "content": "Click to start verification",
+            "column_min": 503,
+            "row_min": 3790,
+            "column_max": 649,
+            "row_max": 3801,
+            "width": 146,
+            "height": 11
+        },
+        {
+            "id": 103,
+            "content": "Friendly Captcha",
+            "column_min": 625,
+            "row_min": 3813,
+            "column_max": 698,
+            "row_max": 3822,
+            "width": 73,
+            "height": 9
+        },
+        {
+            "id": 104,
+            "content": "EMAIL",
+            "column_min": 791,
+            "row_min": 3552,
+            "column_max": 823,
+            "row_max": 3560,
+            "width": 32,
+            "height": 8
+        },
+        {
+            "id": 105,
+            "content": "Inserisci la tua email",
+            "column_min": 791,
+            "row_min": 3589,
+            "column_max": 911,
+            "row_max": 3600,
+            "width": 120,
+            "height": 11
+        },
+        {
+            "id": 106,
+            "content": "Privacy Policy Cookie Policy Rendicontazione contributi pubblici",
+            "column_min": 400,
+            "row_min": 3983,
+            "column_max": 789,
+            "row_max": 3995,
+            "width": 389,
+            "height": 12
+        },
+        {
+            "id": 107,
+            "content": "2024 Hedron . All Rights Reserved . P.iva C.F .: 01877030492.Cap . Soc . 10.000 i.v. Iscritta al Reg . Imprese di Livorno REA . 204279",
+            "column_min": 412,
+            "row_min": 4025,
+            "column_max": 1157,
+            "row_max": 4037,
+            "width": 745,
+            "height": 12
+        },
+        {
+            "id": 108,
+            "content": "maddalena",
+            "column_min": 1575,
+            "row_min": 2402,
+            "column_max": 1723,
+            "row_max": 2426,
+            "width": 148,
+            "height": 24
+        },
+        {
+            "id": 109,
+            "content": "METERING EXPERTISE",
+            "column_min": 1575,
+            "row_min": 2435,
+            "column_max": 1725,
+            "row_max": 2442,
+            "width": 150,
+            "height": 7
+        },
+        {
+            "id": 110,
+            "content": "HEDRON",
+            "column_min": 1375,
+            "row_min": 3546,
+            "column_max": 1519,
+            "row_max": 3572,
+            "width": 144,
+            "height": 26
+        },
+        {
+            "id": 111,
+            "content": "Milano",
+            "column_min": 1464,
+            "row_min": 3612,
+            "column_max": 1520,
+            "row_max": 3626,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 112,
+            "content": "Via Pastrengo 14 20159",
+            "column_min": 1376,
+            "row_min": 3637,
+            "column_max": 1519,
+            "row_max": 3651,
+            "width": 143,
+            "height": 14
+        },
+        {
+            "id": 113,
+            "content": "Livorno",
+            "column_min": 1457,
+            "row_min": 3710,
+            "column_max": 1521,
+            "row_max": 3727,
+            "width": 64,
+            "height": 17
+        },
+        {
+            "id": 114,
+            "content": "Via Edda Fagni 35-57123",
+            "column_min": 1370,
+            "row_min": 3738,
+            "column_max": 1519,
+            "row_max": 3753,
+            "width": 149,
+            "height": 15
+        },
+        {
+            "id": 115,
+            "content": "in",
+            "column_min": 1364,
+            "row_min": 3891,
+            "column_max": 1386,
+            "row_max": 3908,
+            "width": 22,
+            "height": 17
+        },
+        {
+            "id": 116,
+            "content": "Tel . +39 02 56569579",
+            "column_min": 1400,
+            "row_min": 3805,
+            "column_max": 1519,
+            "row_max": 3815,
+            "width": 119,
+            "height": 10
+        },
+        {
+            "id": 117,
+            "content": "ASSOLOMBARDA",
+            "column_min": 1447,
+            "row_min": 4032,
+            "column_max": 1519,
+            "row_max": 4041,
+            "width": 72,
+            "height": 9
+        },
+        {
+            "id": 118,
+            "content": "PAG",
+            "column_min": 1892,
+            "row_min": 2434,
+            "column_max": 1919,
+            "row_max": 2447,
+            "width": 27,
+            "height": 13
+        }
+    ]
+}

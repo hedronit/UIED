@@ -213,7 +213,7 @@ def merge(img_path, compo_path, text_path, merge_root=None, is_paragraph=False, 
     # check the original detected elements
     img = cv2.imread(img_path)
     img_resize = cv2.resize(img, (compo_json['img_shape'][1], compo_json['img_shape'][0]))
-    show_elements(img_resize, texts + compos, show=show, win_name='all elements before merging', wait_key=wait_key)
+    show_elements(img_resize, texts + compos, show=False, win_name='all elements before merging', wait_key=wait_key)
 
     # refine elements
     texts = refine_texts(texts, compo_json['img_shape'])
@@ -225,7 +225,7 @@ def merge(img_path, compo_path, text_path, merge_root=None, is_paragraph=False, 
         elements = merge_text_line_to_paragraph(elements, max_line_gap=7)
     reassign_ids(elements)
     check_containment(elements)
-    board = show_elements(img_resize, elements, show=show, win_name='elements after merging', wait_key=wait_key)
+    board = show_elements(img_resize, elements, show=False, win_name='elements after merging', wait_key=wait_key)
 
     # save all merged elements, clips and blank background
     name = img_path.replace('\\', '/').split('/')[-1][:-4]
