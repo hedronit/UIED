@@ -27,9 +27,10 @@ UIED comprises two parts to detect UI text and graphic elements, such as button,
 ## How to use?
 
 ### Dependency
-* **Python 3.5**
-* **Opencv 3.4.2**
-* **Pandas**
+* **python 3.11.5**
+* **opencv-python**
+* **pandas**
+* **python-dotenv**
 <!-- * **Tensorflow 1.10.0**
 * **Keras 2.2.4**
 * **Sklearn 0.22.2** -->
